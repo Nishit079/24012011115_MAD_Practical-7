@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Roberts Gill",
+    "emailId": "roberts_gill@gnu.ac.in",
+    "phoneNo": "+91 9241276734",
+    "address": "39 Tompkins Place, Oklahoma",
+    "latitude": 35.4676,
+    "longitude": -97.5164
+  },
+  {
+    "id": "2",
+    "name": "John Doe",
+    "emailId": "john.doe@example.com",
+    "phoneNo": "+91 9876543210",
+    "address": "123 Main Street, New York",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "id": "3",
+    "name": "Alice Smith",
+    "emailId": "alice.smith@example.com",
+    "phoneNo": "+91 9123456789",
+    "address": "456 Park Avenue, California",
+    "latitude": 36.7783,
+    "longitude": -119.4179
+  }
+]
